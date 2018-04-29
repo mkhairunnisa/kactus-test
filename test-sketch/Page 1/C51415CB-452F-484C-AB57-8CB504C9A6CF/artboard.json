@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4976BE30-1F8C-4968-B3D1-4C183DD86E4F",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "C51415CB-452F-484C-AB57-8CB504C9A6CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21966035-3A88-41B2-B61A-6B51236568B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6A73821-983B-450F-8846-22FB672C49C8",
+    "height": 356,
+    "width": 229,
+    "x": 274,
+    "y": -31
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "85DB1EA3-3A8D-4059-920F-A676A3EF58B9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98866C1C-6517-4B03-A223-DC64DE373414"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DABAFB7-2712-41E2-BCB6-6167EDDCFFAE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68AE25C2-3B01-4CFD-9974-6C6B1A694CBA"
+    }
+  ],
+  "name": "Artboard New",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB2744E2-61CF-4EB2-9F17-9E59FA137666",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "54A8983D-9FAF-4349-9278-BB6D56FC6AD2",
+    "guides": [
+    ]
+  }
+}
